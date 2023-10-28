@@ -1,13 +1,13 @@
 //変数の宣言
 let weight = 68;
 let height = 1.7 * 1.7;
-let bmi  
+let bmi;
 
 //コンソールへの出力
 console.log(weight);
 console.log(height);
 
 //bmiを算出する計算式
-bmi = weight / height
+bmi = weight / height;
 
 console.log(bmi);
